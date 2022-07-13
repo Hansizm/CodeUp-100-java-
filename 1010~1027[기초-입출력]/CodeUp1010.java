@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class CodeUp1010 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -8,5 +7,3 @@ public class CodeUp1010 {
 		System.out.print(n);
 	}
 }
-
-
